@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: minetest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-24 18:43+0100\n"
-"PO-Revision-Date: 2019-08-15 01:22+0000\n"
+"PO-Revision-Date: 2019-08-15 01:46+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
 "Language-Team: Spanish (Argentina) <http://weblate.example.com/projects/"
 "minetest/minetest-fork/es_AR/>\n"
@@ -29,15 +29,15 @@ msgstr "Renacido"
 
 #: builtin/fstk/ui.lua
 msgid "The server has requested a reconnect:"
-msgstr ""
+msgstr "El servidor a solicitado la reconexion:"
 
 #: builtin/fstk/ui.lua
 msgid "Main menu"
-msgstr ""
+msgstr "Menu principal"
 
 #: builtin/fstk/ui.lua
 msgid "Reconnect"
-msgstr ""
+msgstr "Reconectar"
 
 #: builtin/fstk/ui.lua
 msgid "An error occurred in a Lua script, such as a mod:"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: builtin/fstk/ui.lua
 msgid "An error occurred:"
-msgstr ""
+msgstr "Ocurrio un error:"
 
 #: builtin/fstk/ui.lua
 msgid "Ok"
