@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: minetest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-24 18:43+0100\n"
-"PO-Revision-Date: 2019-08-16 15:43+0000\n"
-"Last-Translator: WeblateAdmin <weblate@example.com>\n"
+"PO-Revision-Date: 2019-08-21 13:00+0000\n"
+"Last-Translator: Rodrigo2 <rodrigo2@gmail.com>\n"
 "Language-Team: Spanish (Argentina) <http://example.com/projects/minetestfork/"
-"minetestfork/es_AR/>\n"
+"minetest/es_AR/>\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,11 +49,11 @@ msgstr "Ocurrio un error:"
 
 #: builtin/fstk/ui.lua
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: builtin/mainmenu/common.lua src/client/game.cpp
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #: builtin/mainmenu/common.lua
 msgid "Try reenabling public serverlist and check your internet connection."
